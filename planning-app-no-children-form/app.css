@@ -1,5 +1,5 @@
 .app {
-     /* Add app styles here */
+    /* Add app styles here */
 }
 
 th.summary {
@@ -18,4 +18,16 @@ td.summary {
 table.summary {
     cellpadding: 10px;
     text-align: center;
+}
+.x-grid-row-selected .x-grid-td {
+    background-color: white;
+
+}
+.x-grid-row-highlighted .x-grid-td {
+    background-color: white;
+
+}
+.buildingBlockLabel {
+    font-family: ProximaNova,Helvetica,Arial;
+    font-size: 9pt;
 }

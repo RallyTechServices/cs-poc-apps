@@ -5,9 +5,11 @@
    "sdk": "2.0",
    "javascript": [
       "Toolbox.js",
+      "DemandCalculator.js",
       "SummaryTemplate.js",
       "ProjectInformationStore.js",
       "PortfolioModelWithBuildingBlocks.js",
+      "BuildingBlockComponent.js",
       "App.js",
       "CustomChooserDialog.js"
    ],
